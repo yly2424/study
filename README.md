@@ -1,8 +1,15 @@
 # Linux study
 
-*斜体文本*
-_斜体文本_
-**粗体文本**
-__粗体文本__
-***粗斜体文本***
-___粗斜体文本___
+# 一、基本命令
+
+# 二、目录操作命令
+
+## 2.1 目录切换 cd
+
+```shell
+xxx@DESKTOP-CEG015C:/mnt/c/Users/xx$ cd /
+xxx@DESKTOP-CEG015C:/$ cd /usr
+xxx@DESKTOP-CEG015C:/usr$ cd ../
+xxx@DESKTOP-CEG015C:/$
+```
+
