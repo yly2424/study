@@ -142,3 +142,23 @@ ___粗斜体___   “3_    3_”
 * 第二项
 
 “先列表再插入区块”
+
+# Markdown代码
+
+`printf()`函数
+
+## 代码区块
+
+​	<?java
+
+​		printf("hello!");
+
+````java
+int s;
+int a = 1,b = 2;
+s = a + b;
+printf("%d", s);
+````
+
+
+
