@@ -160,5 +160,25 @@ s = a + b;
 printf("%d", s);
 ````
 
+# Markdown链接
 
+这是一个链接[菜鸟教程](http://www.runoob.com)
+
+"[链接名称]（链接地址）"
+
+<http://www.runoob.com>
+
+"<链接名称>"
+
+## 高级链接
+
+这个链接用1作为网址变量[百度][1]
+
+这个链接用runoob作为网址变量[Runoob][runoob]
+
+在文档的结尾为变量赋值（网址）
+
+[1]:http://www.baidu.com/
+
+[runoob]：http://www.runoob.com/
 
