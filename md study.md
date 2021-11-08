@@ -172,13 +172,12 @@ printf("%d", s);
 
 ## 高级链接
 
-这个链接用1作为网址变量[百度][1]
+这个链接用1108作为网址变量[百度][1108]
 
 这个链接用runoob作为网址变量[Runoob][runoob]
 
 在文档的结尾为变量赋值（网址）
 
-[1]:http://www.baidu.com/
-
-[runoob]：http://www.runoob.com/
+[1108]:http://www.baidu.com/
+[runoob]:http://www.runoob.com/
 
