@@ -181,3 +181,34 @@ printf("%d", s);
 [1108]:http://www.baidu.com/
 [runoob]:http://www.runoob.com/
 
+”[内容] [变量]
+
+[变量] :网址“
+
+# Markdown 图片
+
+! [RUNOOB 图标] (http://static.runoob.com/images/runoob-logo.png)
+
+![RUNOOB 图标](http://static.runoob.com/images/runoob-logo.png)
+
+! [RUNOOB 图标] (http://static.runoob.com/images/runoob-logo.png "RUNOOB")
+
+![RUNOOB 图标](http://static.runoob.com/images/runoob-logo.png "RUNOOB")
+
+"![图片的代替文字] (图片网址 ”选择性的’title‘属性的文字“)"
+
+
+
+这个链接用1511作为网址变量[Runoob][1511]
+
+在文档的结尾为变量赋值（网址）
+
+[1511]:http://static.runoob.com/images/runoob-logo.png
+
+
+
+使用<img>标签对图片大小进行改变
+
+< img src="http://static.runoob.com/images/runoob-logo.png" width="30%" >
+
+<img src="http://static.runoob.com/images/runoob-logo.png" width="30%">
